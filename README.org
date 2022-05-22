@@ -1,4 +1,4 @@
-#+options: toc:nill
+#+options: toc:nil
 * Hi, My name is Raba
 
 I write stuff here a way for me to learn! Feel free to judge my wares as cool or sus
